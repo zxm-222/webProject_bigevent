@@ -67,7 +67,7 @@ $(function() {
         // 将登录成功得到的 token 字符串，保存到 localStorage 中
         localStorage.setItem('token', res.token);
         // 跳转到后台主页
-        location.href = 'http://localhost:63342/10-%E5%A4%A7%E4%BA%8B%E4%BB%B6%E9%A1%B9%E7%9B%AE%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/index.html?_ijt=r633nmdg0cae80glrb9egpca8r';
+        location.href = 'http://localhost:63342/10-%E5%A4%A7%E4%BA%8B%E4%BB%B6%E9%A1%B9%E7%9B%AE%E5%9F%BA%E7%A1%80%E7%BB%83%E4%B9%A0/index.html?_ijt=29j83cdmqi8o35jrclq9i09id4';
       }
     })
   })
